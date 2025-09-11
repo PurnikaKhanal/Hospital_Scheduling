@@ -1,0 +1,4 @@
+2025-09-11 11:30:12 | User: admin1 | Action: Logged in
+2025-09-11 11:30:18 | User: admin1 | Action: Logged out
+2025-09-11 12:50:02 | User: admin1 | Action: Logged in
+2025-09-11 12:52:29 | User: admin1 | Action: Logged in
